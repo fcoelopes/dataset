@@ -1,1 +1,5 @@
-[]
+- path: versioned
+  name: versioned
+  rows: 150
+  cols: 5
+  type: table
